@@ -1,2 +1,2 @@
-# HSE_DataAnalysis
+# HSE Data Analysis
 HSE Intellectual Data Analysis Course
